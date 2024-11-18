@@ -5,6 +5,7 @@ import argparse
 import numpy as np
 import open3d as o3d
 
+#test trajectort
 colors_map = np.array(
     [
         [128, 128, 128, 255],   # 0  其他，灰色
